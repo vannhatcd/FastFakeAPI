@@ -1,0 +1,181 @@
+[{
+        "id": 1,
+        "name": "John Doe",
+        "mail": "john@example.com",
+        "avatar": "https://via.placeholder.com/150",
+        "gender": "male",
+        "phone": "123-456-7890",
+        "birthday": "1990-01-01"
+    },
+    {
+        "id": 2,
+        "name": "Jane Smith",
+        "mail": "jane@example.com",
+        "avatar": "https://via.placeholder.com/150",
+        "gender": "female",
+        "phone": "987-654-3210",
+        "birthday": "1995-05-15"
+    },
+    {
+        "id": 3,
+        "name": "Alice Johnson",
+        "mail": "alice@example.com",
+        "avatar": "https://via.placeholder.com/150",
+        "gender": "female",
+        "phone": "555-555-5555",
+        "birthday": "1988-09-20"
+    },
+    {
+        "id": 4,
+        "name": "Bob Brown",
+        "mail": "bob@example.com",
+        "avatar": "https://via.placeholder.com/150",
+        "gender": "male",
+        "phone": "444-444-4444",
+        "birthday": "1992-07-10"
+    },
+    {
+        "id": 5,
+        "name": "Ella Davis",
+        "mail": "ella@example.com",
+        "avatar": "https://via.placeholder.com/150",
+        "gender": "female",
+        "phone": "333-333-3333",
+        "birthday": "1998-03-05"
+    },
+    {
+        "id": 6,
+        "name": "Chris Wilson",
+        "mail": "chris@example.com",
+        "avatar": "https://via.placeholder.com/150",
+        "gender": "male",
+        "phone": "222-222-2222",
+        "birthday": "1993-11-25"
+    },
+    {
+        "id": 7,
+        "name": "Grace Martinez",
+        "mail": "grace@example.com",
+        "avatar": "https://via.placeholder.com/150",
+        "gender": "female",
+        "phone": "111-111-1111",
+        "birthday": "1985-12-30"
+    },
+    {
+        "id": 8,
+        "name": "David Taylor",
+        "mail": "david@example.com",
+        "avatar": "https://via.placeholder.com/150",
+        "gender": "male",
+        "phone": "999-999-9999",
+        "birthday": "1991-04-18"
+    },
+    {
+        "id": 9,
+        "name": "Sophia Thomas",
+        "mail": "sophia@example.com",
+        "avatar": "https://via.placeholder.com/150",
+        "gender": "female",
+        "phone": "777-777-7777",
+        "birthday": "1987-08-12"
+    },
+    {
+        "id": 10,
+        "name": "Michael Clark",
+        "mail": "michael@example.com",
+        "avatar": "https://via.placeholder.com/150",
+        "gender": "male",
+        "phone": "666-666-6666",
+        "birthday": "1996-02-22"
+    },
+    {
+        "id": 11,
+        "name": "Olivia Lee",
+        "mail": "olivia@example.com",
+        "avatar": "https://via.placeholder.com/150",
+        "gender": "female",
+        "phone": "555-123-4567",
+        "birthday": "1990-06-14"
+    },
+    {
+        "id": 12,
+        "name": "William Rodriguez",
+        "mail": "william@example.com",
+        "avatar": "https://via.placeholder.com/150",
+        "gender": "male",
+        "phone": "444-234-5678",
+        "birthday": "1989-10-08"
+    },
+    {
+        "id": 13,
+        "name": "Ava Harris",
+        "mail": "ava@example.com",
+        "avatar": "https://via.placeholder.com/150",
+        "gender": "female",
+        "phone": "333-345-6789",
+        "birthday": "1994-12-03"
+    },
+    {
+        "id": 14,
+        "name": "James Garcia",
+        "mail": "james@example.com",
+        "avatar": "https://via.placeholder.com/150",
+        "gender": "male",
+        "phone": "222-456-7890",
+        "birthday": "1997-08-28"
+    },
+    {
+        "id": 15,
+        "name": "Emma Martinez",
+        "mail": "emma@example.com",
+        "avatar": "https://via.placeholder.com/150",
+        "gender": "female",
+        "phone": "111-567-8901",
+        "birthday": "1986-05-19"
+    },
+    {
+        "id": 16,
+        "name": "Alexander Young",
+        "mail": "alexander@example.com",
+        "avatar": "https://via.placeholder.com/150",
+        "gender": "male",
+        "phone": "999-678-9012",
+        "birthday": "1993-09-17"
+    },
+    {
+        "id": 17,
+        "name": "Mia King",
+        "mail": "mia@example.com",
+        "avatar": "https://via.placeholder.com/150",
+        "gender": "female",
+        "phone": "888-789-0123",
+        "birthday": "1989-07-02"
+    },
+    {
+        "id": 18,
+        "name": "Benjamin Lewis",
+        "mail": "benjamin@example.com",
+        "avatar": "https://via.placeholder.com/150",
+        "gender": "male",
+        "phone": "777-890-1234",
+        "birthday": "1998-04-11"
+    },
+    {
+        "id": 19,
+        "name": "Charlotte Walker",
+        "mail": "charlotte@example.com",
+        "avatar": "https://via.placeholder.com/150",
+        "gender": "female",
+        "phone": "666-901-2345",
+        "birthday": "1991-11-30"
+    },
+    {
+        "id": 20,
+        "name": "Daniel Hill",
+        "mail": "daniel@example.com",
+        "avatar": "https://via.placeholder.com/150",
+        "gender": "male",
+        "phone": "555-012-3456",
+        "birthday": "1987-03-25"
+    }
+]

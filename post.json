@@ -1,0 +1,161 @@
+[{
+        "id": 1,
+        "title": "Introduction to Node.js",
+        "description": "Learn the basics of Node.js programming.",
+        "author": "John Doe",
+        "thumbnail": "https://via.placeholder.com/300",
+        "created_at": "2023-01-10T08:00:00Z"
+    },
+    {
+        "id": 2,
+        "title": "Building RESTful APIs with Express",
+        "description": "A guide to creating RESTful APIs using Express.js.",
+        "author": "Jane Smith",
+        "thumbnail": "https://via.placeholder.com/300",
+        "created_at": "2023-02-15T10:30:00Z"
+    },
+    {
+        "id": 3,
+        "title": "Frontend Development with React",
+        "description": "Explore React.js for building modern UIs.",
+        "author": "Alice Johnson",
+        "thumbnail": "https://via.placeholder.com/300",
+        "created_at": "2023-03-20T11:45:00Z"
+    },
+    {
+        "id": 4,
+        "title": "Database Design and Management",
+        "description": "Learn about database design principles.",
+        "author": "Bob Brown",
+        "thumbnail": "https://via.placeholder.com/300",
+        "created_at": "2023-04-25T14:20:00Z"
+    },
+    {
+        "id": 5,
+        "title": "JavaScript Fundamentals",
+        "description": "Foundational concepts of JavaScript programming.",
+        "author": "Ella Davis",
+        "thumbnail": "https://via.placeholder.com/300",
+        "created_at": "2023-05-30T09:10:00Z"
+    },
+    {
+        "id": 6,
+        "title": "Responsive Web Design Techniques",
+        "description": "Creating responsive websites using CSS.",
+        "author": "Chris Wilson",
+        "thumbnail": "https://via.placeholder.com/300",
+        "created_at": "2023-06-12T13:00:00Z"
+    },
+    {
+        "id": 7,
+        "title": "Mobile App Development Essentials",
+        "description": "Key aspects of mobile app development.",
+        "author": "Grace Martinez",
+        "thumbnail": "https://via.placeholder.com/300",
+        "created_at": "2023-07-17T16:45:00Z"
+    },
+    {
+        "id": 8,
+        "title": "Data Structures and Algorithms",
+        "description": "Understanding data structures and algorithms.",
+        "author": "David Taylor",
+        "thumbnail": "https://via.placeholder.com/300",
+        "created_at": "2023-08-22T10:00:00Z"
+    },
+    {
+        "id": 9,
+        "title": "Cybersecurity Fundamentals",
+        "description": "Basics of cybersecurity and online safety.",
+        "author": "Sophia Thomas",
+        "thumbnail": "https://via.placeholder.com/300",
+        "created_at": "2023-09-27T12:30:00Z"
+    },
+    {
+        "id": 10,
+        "title": "AI and Machine Learning Basics",
+        "description": "Introduction to AI and machine learning concepts.",
+        "author": "Michael Clark",
+        "thumbnail": "https://via.placeholder.com/300",
+        "created_at": "2023-10-05T09:20:00Z"
+    },
+    {
+        "id": 11,
+        "title": "Digital Marketing Strategies",
+        "description": "Strategies for effective digital marketing.",
+        "author": "Olivia Lee",
+        "thumbnail": "https://via.placeholder.com/300",
+        "created_at": "2023-11-11T14:00:00Z"
+    },
+    {
+        "id": 12,
+        "title": "Cloud Computing Essentials",
+        "description": "Understanding cloud computing services.",
+        "author": "William Rodriguez",
+        "thumbnail": "https://via.placeholder.com/300",
+        "created_at": "2023-12-18T11:15:00Z"
+    },
+    {
+        "id": 13,
+        "title": "E-commerce Website Development",
+        "description": "Developing an e-commerce platform.",
+        "author": "Ava Harris",
+        "thumbnail": "https://via.placeholder.com/300",
+        "created_at": "2024-01-01T09:45:00Z"
+    },
+    {
+        "id": 14,
+        "title": "Artificial Intelligence Applications",
+        "description": "Real-world applications of AI technology.",
+        "author": "James Garcia",
+        "thumbnail": "https://via.placeholder.com/300",
+        "created_at": "2024-02-14T15:00:00Z"
+    },
+    {
+        "id": 15,
+        "title": "User Experience (UX) Design",
+        "description": "Fundamentals of UX design principles.",
+        "author": "Emma Martinez",
+        "thumbnail": "https://via.placeholder.com/300",
+        "created_at": "2024-03-21T11:30:00Z"
+    },
+    {
+        "id": 16,
+        "title": "Blockchain Technology Explained",
+        "description": "Understanding the basics of blockchain.",
+        "author": "Alexander Young",
+        "thumbnail": "https://via.placeholder.com/300",
+        "created_at": "2024-04-26T10:00:00Z"
+    },
+    {
+        "id": 17,
+        "title": "Social Media Marketing Strategies",
+        "description": "Effective strategies for social media marketing.",
+        "author": "Mia King",
+        "thumbnail": "https://via.placeholder.com/300",
+        "created_at": "2024-05-30T14:45:00Z"
+    },
+    {
+        "id": 18,
+        "title": "Web Development Best Practices",
+        "description": "Best practices in modern web development.",
+        "author": "Benjamin Lewis",
+        "thumbnail": "https://via.placeholder.com/300",
+        "created_at": "2024-06-15T09:10:00Z"
+    },
+    {
+        "id": 19,
+        "title": "SEO Fundamentals",
+        "description": "Foundations of Search Engine Optimization.",
+        "author": "Charlotte Walker",
+        "thumbnail": "https://via.placeholder.com/300",
+        "created_at": "2024-07-22T12:00:00Z"
+    },
+    {
+        "id": 20,
+        "title": "Big Data Analytics",
+        "description": "Understanding analytics in big data.",
+        "author": "Daniel Hill",
+        "thumbnail": "https://via.placeholder.com/300",
+        "created_at": "2024-08-05T11:20:00Z"
+    }
+]
